@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41546'
     url: http://www.gutenberg.org/2009/agents/41546
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42146#Western-Himalaya-and-TibetA-Narrative-of-a-Journey-Through-the-Mountains-of-Northern-India-Du_
 gutenberg_issued: '2013-02-20'
 gutenberg_type: Text
 identifiers:
