@@ -1,0 +1,33 @@
+_repo: Western-Himalaya-and-TibetA-Narrative-of-a-Journey-Through-the-Mountains-of-Northern-India-Du__42146
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thomson, Thomas
+    birthdate: 1817
+    deathdate: 1878
+    gutenberg_agent_id: '41546'
+    url: http://www.gutenberg.org/2009/agents/41546
+description: ''
+gutenberg_issued: '2013-02-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42146'
+  lccn: '05007545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tibet Autonomous Region (China) -- Description and travel'
+- !lcsh 'Himalaya Mountains Region -- Description and travel'
+- !lcsh 'Thomson, Thomas, 1817-1878 -- Travel -- Himalaya Mountains Region'
+- !lcsh 'Thomson, Thomas, 1817-1878 -- Travel -- China -- Tibet Autonomous Region'
+- !lcc 'DS'
+title: 'Western Himalaya and Tibet
+
+  A Narrative of a Journey Through the Mountains of Northern India During the Years
+  1847-8'
+url: http://www.gutenberg.org/ebooks/42146
